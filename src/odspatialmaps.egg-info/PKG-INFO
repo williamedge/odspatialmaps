@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: odspatialmaps
+Version: 0.1.dev2+gf3c100681
+Summary: Python package for basic maps of model outputs (CMEMS).
+Home-page: https://github.com/williamedge/odspatialmaps
+Author: William Edge
+Author-email: william.edge@uwa.edu.au
+License: BSD-3-Clause
+Project-URL: Bug Tracker, https://github.com/williamedge/odspatialmaps/issues
+Project-URL: Changelog, https://github.com/williamedge/odspatialmaps/releases
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Intended Audience :: Developers
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: xarray
+Requires-Dist: matplotlib
+Requires-Dist: cmocean
+Requires-Dist: notebook
+Requires-Dist: ipykernel
+Requires-Dist: ipywidgets
+Requires-Dist: copernicusmarine
+Requires-Dist: cartopy
+Dynamic: license-file

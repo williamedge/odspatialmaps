@@ -1,0 +1,16 @@
+__pycache__/*
+dist/*
+src/drifterOI.egg-info/*
+src/drifterOI/__pycache__/*
+src/drifterOI.egg-info/
+src/__pycache__/
+src/notebooks/sandpit/anim
+
+*.mp4
+*.png
+*.jpg
+*.gif
+
+*.out
+*.err
+*.log

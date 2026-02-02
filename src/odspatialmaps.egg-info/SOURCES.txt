@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/odspatialmaps.egg-info/PKG-INFO
+src/odspatialmaps.egg-info/SOURCES.txt
+src/odspatialmaps.egg-info/dependency_links.txt
+src/odspatialmaps.egg-info/entry_points.txt
+src/odspatialmaps.egg-info/requires.txt
+src/odspatialmaps.egg-info/top_level.txt

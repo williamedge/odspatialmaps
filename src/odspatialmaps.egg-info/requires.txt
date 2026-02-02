@@ -1,0 +1,10 @@
+numpy
+pandas
+xarray
+matplotlib
+cmocean
+notebook
+ipykernel
+ipywidgets
+copernicusmarine
+cartopy

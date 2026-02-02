@@ -1,0 +1,2 @@
+[console_scripts]
+odspatialmaps = odspatialmaps.app:entry_point
